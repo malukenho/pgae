@@ -3,6 +3,9 @@ clear
 CURRENT_DATETIME=$(date)
 echo -e "
 \e[1;33m 
+
+
+
                                                                            .. .cxkkkkxl'..    ..           
                                                                         .:oxkkxkkkkkkkkkkkkxddxkkxo:.       
                                                                        :kkkkooxkkc.  .cddoodkkxookkkk;      
@@ -23,6 +26,9 @@ echo -e "
                                                                         lkkkc..xkkkkkkkkkkkkkkkkkkkkc       
                                                                         .lkkkkkkkkkkkkkkkkkkkkkkkkkl        
                                                                           'dkkkkkkkkkkkkkkkkkkkkko'
+
+
+
 
 
 "

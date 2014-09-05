@@ -2,7 +2,7 @@
 clear
 CURRENT_DATETIME=$(date)
 echo -e "
-\e[1;36m
+\e[1;34m
 
 
 
