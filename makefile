@@ -3,3 +3,4 @@ presentation:
 	slides/intro.sh
 	slides/php.sh
 	slides/whoami.sh
+	slides/vagrant.sh
