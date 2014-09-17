@@ -1,0 +1,13 @@
+{
+    "require": {
+        "silex/silex": "*@DEV"
+    },
+    "repositories": [
+        {
+             "type": "composer", 
+             "url": "https://packagist.org" 
+        },
+        { "packagist": false }
+    ]
+}
+
