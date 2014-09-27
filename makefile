@@ -3,6 +3,12 @@ presentation:
 	slides/intro.sh
 	slides/php.sh
 	slides/whoami.sh
+	slides/lamp.sh
+	slides/linux.sh
+	slides/apache.sh
+	slides/mysql.sh
+	slides/elephpant.sh
 	slides/cloud.sh
 	slides/pass.sh
+	slides/step1.sh
 	slides/vagrant.sh
