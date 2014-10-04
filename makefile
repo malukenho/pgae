@@ -30,6 +30,16 @@ presentation:
 	# Step 1 - Instalation
 	slides/step1.sh
 	slides/download_sdk.sh
+	slides/sdk_install.sh
+	slides/sdk_cloud_url.sh
+	slides/sdk_install.sh
+	slides/sdk_install_curl.sh
+	slides/sdk_install_help.sh
+	slides/sdk_install_choice.sh
+	slides/sdk_install_installation.sh
+	slides/sdk_install_config_path.sh
+	slides/sdk_install_config_path_part2.sh
+	slides/sdk_install_config_path_part3.sh
 
 	# Step 2 - Environment
 	slides/step2.sh
