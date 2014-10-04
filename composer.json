@@ -1,13 +1,8 @@
 {
+    "minimum-stability": "dev",
     "require": {
-        "silex/silex": "*@DEV"
-    },
-    "repositories": [
-        {
-             "type": "composer", 
-             "url": "https://packagist.org" 
-        },
-        { "packagist": false }
-    ]
+        "silex/silex": "*@DEV",
+        "malukenho/speaknumber": "dev-master"
+    }
 }
 
