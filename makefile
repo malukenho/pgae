@@ -14,6 +14,11 @@ presentation:
 	slides/why_gae.sh
 	slides/cloud.sh
 	slides/pass.sh
+	slides/gsql.sh
+	slides/data_store.sh
+	slides/cloud_store.sh
+	slides/integration.sh
+	slides/git.sh
 
 	# LAMP
 	slides/lamp.sh
