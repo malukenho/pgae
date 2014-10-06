@@ -3,6 +3,10 @@
     "require": {
         "silex/silex": "*@DEV",
         "malukenho/speaknumber": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
     }
 }
-
