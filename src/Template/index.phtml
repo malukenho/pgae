@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>&copy; SpeakNumer - DevFest Nordeste Presentation / 2014</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Speak Number</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <?php if (isset($literal)) : ?>
+                    <div class="alert alert-success" role="alert"><?php echo ucfirst($literal); ?></div>
+                <?php endif; ?>
+                <form action="" method="post">
+                    <div class="input-group">
+                        <input type="number" name="number" class="form-control" placeholder="Number to speak ...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit">Speak it!</button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <hr>
+        <footer class="text-center">
+            <p>PHP <font color="red">&hearts;</font> Google App Engine</p>
+        </footer>
+    </div>
+</body>
+</html>
