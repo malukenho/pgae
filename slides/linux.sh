@@ -2,6 +2,7 @@
 clear
 echo -e "\e[1;37m 
 
+
                                                                              .;dkkxdollcc:;.
                                                                            'dO0Oxoc;,'...',;;'                              
                                                                           lk0KOo:'..       ..;;.                            
@@ -41,6 +42,5 @@ echo -e "\e[1;37m
                                                  \e[0;33m.ldxxxxkxxxxxxkkkkkkkkkxdl:'\e[1;37m.................\e[0;33mlxkkkkkkkxxxddl;.             
                                                    \e[0;33m...,;;:clodddxxxxkkkkxol;.                 \e[0;33m:xkkkkkkxddo:'                
                                                              \e[0;33m..',:loodool;.                   \e[0;33m.cdxxddooc,.                  
-                                                                    \e[0;33m.....                       \e[0;33m.',,''. \e[1;37m
-"
+                                                                    \e[0;33m.....                       \e[0;33m.',,''. \e[1;37m "
 read slide
