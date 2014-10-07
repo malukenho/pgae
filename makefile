@@ -49,6 +49,7 @@ presentation:
 	slides/environment_create_project.sh
 	slides/environment_gcloud_init.sh
 	slides/environment_gcloud_cd.sh
+	slides/environment_localhost.sh
 	slides/vagrant.sh
 
 	# Step 3 - Deploy
