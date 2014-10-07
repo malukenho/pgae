@@ -49,11 +49,22 @@ presentation:
 	slides/environment_create_project.sh
 	slides/environment_gcloud_init.sh
 	slides/environment_gcloud_cd.sh
-	slides/environment_localhost.sh
-	slides/vagrant.sh
+	slides/app_yaml.sh
+	slides/environment_gcloud_git_add.sh
+	slides/environment_gcloud_git_commit.sh
+	slides/environment_gcloud_dev.sh
 
 	# Step 3 - Deploy
 	slides/step3.sh
+	slides/deploy.sh
+	slides/deploy_result.sh
+	slides/url.sh
+
+	# Tips
+	slides/vagrant.sh
+
+	# Ending
+	slides/twitter.sh
 
 dev:
 	dev_appserver.py --php_executable_path=/Applications/MAMP/bin/php/php5.5.10/bin/php-cgi .
