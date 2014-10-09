@@ -64,6 +64,7 @@ presentation:
 	slides/environment_gcloud_git_add.sh
 	slides/environment_gcloud_git_commit.sh
 	slides/environment_gcloud_dev.sh
+	slides/localhost_dev.sh
 
 	# Step 3 - Deploy
 	slides/step3.sh
