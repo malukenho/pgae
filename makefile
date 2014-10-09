@@ -9,15 +9,15 @@ presentation:
 
 	# why php
 	slides/why_php.sh
-	slides/php_community.sh
 	slides/80_percent.sh
 
 	# why gae
 	slides/why_gae.sh
 	slides/2008.sh
+	slides/php_community.sh
 	slides/ciclo.sh
 	slides/cloud.sh
-	slides/pass.sh
+	slides/paas.sh
 	slides/gsql.sh
 	slides/data_store.sh
 	slides/cloud_store.sh
