@@ -57,6 +57,7 @@ presentation:
 	slides/environment_browser.sh
 	slides/environment_logged.sh
 	slides/environment_create_project.sh
+	slides/register_app.sh
 	slides/environment_gcloud_init.sh
 	slides/environment_gcloud_cd.sh
 	slides/app_yaml.sh
