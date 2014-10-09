@@ -9,9 +9,13 @@ presentation:
 
 	# why php
 	slides/why_php.sh
+	slides/php_community.sh
+	slides/80_percent.sh
 
 	# why gae
 	slides/why_gae.sh
+	slides/2008.sh
+	slides/ciclo.sh
 	slides/cloud.sh
 	slides/pass.sh
 	slides/gsql.sh
@@ -19,6 +23,7 @@ presentation:
 	slides/cloud_store.sh
 	slides/integration.sh
 	slides/git.sh
+	slides/cache.sh
 
 	# LAMP
 	slides/lamp.sh
