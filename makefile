@@ -23,6 +23,7 @@ presentation:
 	slides/cloud_store.sh
 	slides/integration.sh
 	slides/git.sh
+	slides/cron.sh
 	slides/cache.sh
 
 	# LAMP
@@ -31,6 +32,10 @@ presentation:
 	slides/apache.sh
 	slides/mysql.sh
 	slides/elephpant.sh
+	slides/vagrant.sh
+
+    # Starting hands On
+	slides/hands_on.sh
 
 	# Step 1 - Instalation
 	slides/step1.sh
@@ -64,9 +69,6 @@ presentation:
 	slides/deploy.sh
 	slides/deploy_result.sh
 	slides/url.sh
-
-	# Tips
-	slides/vagrant.sh
 
 	# Ending
 	slides/twitter.sh
