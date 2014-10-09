@@ -61,6 +61,7 @@ presentation:
 	slides/environment_gcloud_init.sh
 	slides/environment_gcloud_cd.sh
 	slides/app_yaml.sh
+	slides/github.sh
 	slides/environment_gcloud_git_add.sh
 	slides/environment_gcloud_git_commit.sh
 	slides/environment_gcloud_dev.sh
@@ -74,6 +75,7 @@ presentation:
 
 	# Ending
 	slides/twitter.sh
+	slides/github.sh
 
 dev:
 	dev_appserver.py --php_executable_path=/Applications/MAMP/bin/php/php5.5.10/bin/php-cgi .
