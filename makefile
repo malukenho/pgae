@@ -16,6 +16,9 @@ presentation:
 	slides/2008.sh
 	slides/php_community.sh
 	slides/ciclo.sh
+	slides/life_cycle.sh
+	slides/life_cycle_gae.sh
+	slides/life_cycle_admin.sh
 	slides/cloud.sh
 	slides/paas.sh
 	slides/gsql.sh
@@ -25,6 +28,7 @@ presentation:
 	slides/git.sh
 	slides/cron.sh
 	slides/cache.sh
+	slides/infra.sh
 
 	# LAMP
 	slides/lamp.sh
