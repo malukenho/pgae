@@ -79,7 +79,7 @@ presentation:
 
 	# Ending
 	slides/twitter.sh
-	slides/github.sh
+	slides/mygithub.sh
 
 dev:
 	dev_appserver.py --php_executable_path=/Applications/MAMP/bin/php/php5.5.10/bin/php-cgi .
