@@ -22,6 +22,7 @@ presentation:
 	slides/cloud.sh
 	slides/paas.sh
 	slides/gsql.sh
+	slides/mail_api.sh
 	slides/data_store.sh
 	slides/cloud_store.sh
 	slides/integration.sh
