@@ -7,20 +7,29 @@ presentation:
 	# self presentation
 	slides/whoami.sh
 
-	# why php
-	slides/why_php.sh
-	slides/80_percent.sh
+	# Introduction
+	slides/cloud.sh
+	slides/structure.sh
 
-	# why gae
+	slides/structure_named.sh
+	slides/structure_named_2.sh
+	slides/structure_named_3.sh
+	slides/paas.sh
+	
+	slides/why_php.sh
 	slides/why_gae.sh
 	slides/2008.sh
+	slides/80_percent.sh
 	slides/php_community.sh
+
+	
+	# Good things
 	slides/ciclo.sh
 	slides/life_cycle.sh
 	slides/life_cycle_gae.sh
 	slides/life_cycle_admin.sh
-	slides/cloud.sh
-	slides/paas.sh
+	
+
 	slides/gsql.sh
 	slides/mail_api.sh
 	slides/data_store.sh
@@ -77,6 +86,7 @@ presentation:
 	slides/deploy.sh
 	slides/deploy_result.sh
 	slides/url.sh
+	slides/money.sh
 
 	# Ending
 	slides/twitter.sh
