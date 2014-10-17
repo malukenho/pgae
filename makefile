@@ -35,6 +35,7 @@ presentation:
 	slides/data_store.sh
 	slides/cloud_store.sh
 	slides/integration.sh
+	slides/xmpp.sh
 	slides/git.sh
 	slides/cron.sh
 	slides/cache.sh
@@ -91,6 +92,8 @@ presentation:
 	# Ending
 	slides/twitter.sh
 	slides/mygithub.sh
+	slides/questions.sh
+	slides/thanks.sh
 
 dev:
 	dev_appserver.py --php_executable_path=/Applications/MAMP/bin/php/php5.5.10/bin/php-cgi .
